@@ -1,0 +1,77 @@
+!SESSION 2023-05-03 09:55:39.787 -----------------------------------------------
+eclipse.buildId=Version 1.11.0
+java.version=11.0.16
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=de_DE
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2023-05-03 09:55:51.545
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2023-05-03 09:55:51.630
+!MESSAGE Log4j initialized with config file C:\Users\Pascal\KIRCPA02_OneDrive\OneDrive - thu.de\Cube_Projects\CANBUS_Display\CANBUS_Display\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2023-05-03 09:55:54.923
+!MESSAGE Started RMI Server, listening on port 41337
+!SESSION 2023-05-03 09:57:53.565 -----------------------------------------------
+eclipse.buildId=Version 1.11.0
+java.version=11.0.16
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=de_DE
+Framework arguments:  C:\Users\Pascal\KIRCPA02_OneDrive\OneDrive - thu.de\Cube_Projects\CANBUS_Display\CANBUS_Display\.project
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 C:\Users\Pascal\KIRCPA02_OneDrive\OneDrive - thu.de\Cube_Projects\CANBUS_Display\CANBUS_Display\.project
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2023-05-03 09:58:02.236
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2023-05-03 09:58:02.314
+!MESSAGE Log4j initialized with config file C:\Users\Pascal\KIRCPA02_OneDrive\OneDrive - thu.de\Cube_Projects\CANBUS_Display\CANBUS_Display\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2023-05-03 09:58:04.953
+!MESSAGE Started RMI Server, listening on port 41337
+!SESSION 2023-05-03 19:46:47.665 -----------------------------------------------
+eclipse.buildId=Version 1.11.0
+java.version=11.0.16
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=de_DE
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2023-05-03 19:47:13.372
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2023-05-03 19:47:13.485
+!MESSAGE Log4j initialized with config file C:\Users\Pascal\KIRCPA02_OneDrive\OneDrive - thu.de\Cube_Projects\CANBUS_Display\CANBUS_Display\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2023-05-03 19:47:17.943
+!MESSAGE Started RMI Server, listening on port 41337
+!SESSION 2023-05-17 07:28:25.088 -----------------------------------------------
+eclipse.buildId=Version 1.11.0
+java.version=11.0.16
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=de_DE
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2023-05-17 07:28:57.979
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2023-05-17 07:28:58.119
+!MESSAGE Log4j initialized with config file C:\Users\Pascal\KIRCPA02_OneDrive\OneDrive - thu.de\Cube_Projects\CANBUS_Display\CANBUS_Display\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2023-05-17 07:29:03.359
+!MESSAGE Started RMI Server, listening on port 41337
+!SESSION 2023-05-17 07:30:12.762 -----------------------------------------------
+eclipse.buildId=Version 1.11.0
+java.version=11.0.16
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=de_DE
+Framework arguments:  C:\Users\Pascal\KIRCPA02_OneDrive\OneDrive - thu.de\Cube_Projects\CANBUS_Display\CANBUS_Display\.project
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 C:\Users\Pascal\KIRCPA02_OneDrive\OneDrive - thu.de\Cube_Projects\CANBUS_Display\CANBUS_Display\.project
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2023-05-17 07:30:27.237
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2023-05-17 07:30:27.318
+!MESSAGE Log4j initialized with config file C:\Users\Pascal\KIRCPA02_OneDrive\OneDrive - thu.de\Cube_Projects\CANBUS_Display\CANBUS_Display\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2023-05-17 07:30:30.396
+!MESSAGE Started RMI Server, listening on port 41337
