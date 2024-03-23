@@ -84,7 +84,15 @@ Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ioreq.c \
 Middlewares/ST/STM32_USB_Device_Library/Class/MSC/Src/usbd_msc.c \
 Middlewares/ST/STM32_USB_Device_Library/Class/MSC/Src/usbd_msc_bot.c \
 Middlewares/ST/STM32_USB_Device_Library/Class/MSC/Src/usbd_msc_data.c \
-Middlewares/ST/STM32_USB_Device_Library/Class/MSC/Src/usbd_msc_scsi.c
+Middlewares/ST/STM32_USB_Device_Library/Class/MSC/Src/usbd_msc_scsi.c \
+BMA253/Src/BMA253.c \
+BMP280/Src/BMP280.c \
+CAN_BUS_Interface/Src/CAN_BUS_Int.c \
+SD_CARD_SPI/Src/SD_Interface.c \
+SD_CARD_SPI/Src/SD_SPI.c \
+ST7789/Src/ST7789.c \
+USB_Comms/Src/USB_Comm.c
+
 
 # ASM sources
 ASM_SOURCES =  \
@@ -152,7 +160,13 @@ C_INCLUDES =  \
 -IMiddlewares/ST/STM32_USB_Device_Library/Core/Inc \
 -IMiddlewares/ST/STM32_USB_Device_Library/Class/MSC/Inc \
 -IDrivers/CMSIS/Device/ST/STM32F4xx/Include \
--IDrivers/CMSIS/Include
+-IDrivers/CMSIS/Include \
+-IBMA253/Inc \
+-IBMP280/Inc \
+-ICAN_BUS_Interface/Inc \
+-ISD_CARD_SPI/Inc \
+-IST7789/Inc \
+-IUSB_Comms/Inc
 
 
 # compile gcc flags

@@ -5,4 +5,6 @@
  *      Author: pasik
  */
 
+#include "BMA253.h"
+
 

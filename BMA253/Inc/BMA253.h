@@ -10,4 +10,11 @@
 
 
 
+
+
+// Object Oriented Implementation of BMA253 with i2c com
+
+
+
+
 #endif /* BMA253_H_ */
