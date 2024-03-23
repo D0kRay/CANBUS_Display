@@ -91,7 +91,8 @@ CAN_BUS_Interface/Src/CAN_BUS_Int.c \
 SD_CARD_SPI/Src/SD_Interface.c \
 SD_CARD_SPI/Src/SD_SPI.c \
 ST7789/Src/ST7789.c \
-USB_Comms/Src/USB_Comm.c
+USB_Comms/Src/USB_Comm.c \
+Library/SingleLinkedList/Src/SingleLinkedList.c
 
 
 # ASM sources
@@ -166,7 +167,8 @@ C_INCLUDES =  \
 -ICAN_BUS_Interface/Inc \
 -ISD_CARD_SPI/Inc \
 -IST7789/Inc \
--IUSB_Comms/Inc
+-IUSB_Comms/Inc \
+-ILibrary/SingleLinkedList/Inc
 
 
 # compile gcc flags
